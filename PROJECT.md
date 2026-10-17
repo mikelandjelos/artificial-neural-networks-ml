@@ -6,6 +6,8 @@
 
 ## Registration
 
+- Confirmed study track: VI; sentiment analysis is required.
+
 - Topic and exact problem: TBD
 - Dataset URL and license/access notes: TBD
 - Course registration status: Pending
